@@ -11,10 +11,6 @@ Also, I just love the process of software development
 * ✉️  You can contact me at [cabdirahmandirie@gmail.com](mailto:cabdirahmandirie@gmail.com)
 * 🧠  I'm learning Samaan Tech
 
-<a href="https://www.twitter.com/abdirahmandirie" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/abdirahmandirie?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
