@@ -7,7 +7,7 @@ Full Stack Developer
 Also, I just love the process of software development
 
 * 🌍  I'm based in Somalia
-* 🖥️  See my portfolio at [www.samantech.com](http://www.samantech.com)
+<!-- * 🖥️  See my portfolio at [www.samantech.com](http://www.samantech.com) -->
 * ✉️  You can contact me at [cabdirahmandirie@gmail.com](mailto:cabdirahmandirie@gmail.com)
 * 🧠  I'm learning Samaan Tech
 
