@@ -1,7 +1,7 @@
 Hi 👋 My name is Abdirahman Dirie
 =================================
 
-Full Stack Developer
+Full Stack Software Developer
 --------------------
 
 Also, I just love the process of software development
